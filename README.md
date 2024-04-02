@@ -6,7 +6,8 @@ Nací en un pequeño pueblo de Valencia, España, de padres inmigrantes cubanos.
 
 ## Education // Educación
 - M.S., Physics (Física)	| University of Florida  (_December 2023_)	 			        		
-- B.S., Physics (Física), Mathematics (Matemáticas) | University of Wisconsin - Madison (_December 2020_)
+- B.S., Physics (Física)  | University of Wisconsin - Madison (_December 2020_)
+- B.S., Mathematics (Matemáticas)  | University of Wisconsin - Madison (_December 2020_)
 - A.A., Physics (Física)  | Honors College at Miami Dade College (_August 2018_)
 
 ## Projects // Proyectos
