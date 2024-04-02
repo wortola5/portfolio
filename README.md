@@ -26,5 +26,5 @@ Mis investigaciónes se sitúan en la frontera entre la teoría y la experimenta
 ### Symposium Presentation, “Probing the Cosmic Distance Scale from Primordial Sound Waves using Correlation Functions,” UF Astronomy Seminar, October 2022.
 ### Symposium Presentation, “Analysis of the ionospheric layer foF2,” MDC Science Symposium, 22nd September 2018.
 
-## Publications // Publicaciones
+## Publications - Publicaciones
 1. W. Ortolá Leonard, Z. Slepian, and J. Hou, "Modeling the Redshift-Space Galaxy 4-Point Correlation Fuunction," eprint arxiv:2402-15510
