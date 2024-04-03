@@ -27,4 +27,4 @@ Mis investigaciónes se sitúan en la frontera entre la teoría y la experimenta
 ### Symposium Presentation, “Analysis of the ionospheric layer foF2,” MDC Science Symposium, 22nd September 2018.
 
 ## Publications - Publicaciones
-1. W. Ortolá Leonard, Z. Slepian, and J. Hou, "A Model for the Redshift-Space Galaxy 4-Point Correlation Fuunction," [arxiv:2402.15510](https://arxiv.org/abs/2402.15510)
+1. W. Ortolá Leonard, Z. Slepian, and J. Hou, "A Model for the Redshift-Space Galaxy 4-Point Correlation Function," [arxiv:2402.15510](https://arxiv.org/abs/2402.15510)
