@@ -6,10 +6,10 @@ Nací en un pequeño pueblo de Valencia, España, de padres inmigrantes cubanos.
 
 ## Education - Educación
 - Ph.D., Physics (Física)	| UF  (_Present_)
-- M.S., Physics (Física)	| UF  (_Dec. 2023_)	 			        		
-- B.S., Physics (Física)  | UW - Madison (_Dec. 2020_)
-- B.S., Mathematics (Matemáticas)  | UW - Madison (_Dec. 2020_)
-- A.A., Physics (Física)  | Honors College at Miami Dade College (_Aug. 2018_)
+- M.S., Physics (Física)	|   UF  (_Dec. 2023_)	 			        		
+- B.S., Physics (Física)  |     UW - Madison (_Dec. 2020_)
+- B.S., Mathematics (Matemáticas)  |   UW - Madison (_Dec. 2020_)
+- A.A., Physics (Física)  |          Honors College at Miami Dade College (_Aug. 2018_)
 
 ## Research - Investigación
 My research lies at the interface between theory and experiment in the field of cosmology. My laboratory is the Universe and to explore its vastness I am a member of the Dark Energy Spectroscopic Instrument ([DESI](https://www.desi.lbl.gov/)) through my research group at UF, led by Dr. Zachary Slepian. DESI is an ongoing experiment that will measure the 3D position of 40 million galaxies. To extract information from the data that DESI is providing I make use of a set of theoretical tools called N-Point Correlation Functions (NPCFs). The NPCFs allow us to extract information from the data to study the content of the universe and the properties of the accelerated expansion of the Universe. In my free time, I also love learning about alternative models to inflation. Inflation is a model proposing an accelerated expansion of the universe, 10^-33 second after the big bang, to explain the extremely homogenous and isotropic Universe we see during our observations. 
