@@ -3,3 +3,10 @@ plugins:
 - jekyll-remote-theme
 title: William Ortolá Leonard 
 logo: /assets/img/Headshot.JPG
+navigation:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research
+  - title: About Me
+    url: /about
